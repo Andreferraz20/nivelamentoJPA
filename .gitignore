@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+ 
+# Maven
+log/
+target/
